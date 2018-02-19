@@ -1,0 +1,24 @@
+body {margin-left: 150px; width: 700px; background-color: white;}
+
+.v_head {color:black; font-size:24pt; text-align:center;
+			font-family:"Trebuchet MS",arial,sans-serif}
+
+.menu {background-color: black; color:white; font-size:12pt;
+			font-family:"Trebuchet MS",arial,sans-serif;
+			font-weight:bold; display: inline;}
+
+.menu a:link {color: white; text-decoration: none; padding-right: 90px;}
+
+.menu a:visited {color: white; text-decoration: none; padding-right: 90px;}
+
+.menu a:hover {color: black; background-color: white; outline-style:solid;
+			outline-color:red;}
+
+.menu a:focus {color: lime; text-decoration: none; outline-style:solid;
+			outline-color:lime;}		
+
+.v_srodek {width: 600px; color:black; font-size:15pt; text-align:left;
+			font-family:"Trebuchet MS",arial,sans-serif}
+
+.foot {margin-top: 100px; color:black; font-size:9pt; text-align:left;
+			font-family:"Trebuchet MS",arial,sans-serif; font-weight:normal}

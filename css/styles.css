@@ -1,0 +1,77 @@
+/*
+Design by FlashTemplatesDesign.com
+http://www.flashtemplatesdesign.com
+Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+body {margin: 20px 0; padding: 0; background: #fff url(../Obrazki/back_all.gif); font-family: Arial, Helvetica, sans-serif;}
+
+h1, h2, h3 {color: #B13413;}
+
+h2 {font-size: 1.6em;}
+
+h3 {margin: 0; font-size: 1em;}
+
+p, ul, blockquote {margin-top: 0;}
+
+/* Ksiega */
+#ksiega ol {list-style: none; margin: 0; padding: 0;}
+#ksiega li {margin: .5em ;}
+#ksiega label {float: left; width: 80px; margin-right: 15px; text-align: left;}
+
+a {text-decoration: underline; color: #B13413;}
+
+a:hover {text-decoration: none}
+
+/* Header */
+
+#header {width: 700px; height: 200px; margin: 0 auto; background: url(../Obrazki/header.png) no-repeat;}
+
+/* Menu */
+
+#menu {width: 694px; height: 41px; border-left: 3px solid #ffffff; border-right: 3px solid #ffffff; margin: 0 auto; background: #37AEF2 url(../Obrazki/menu.gif)}
+
+#menu ul {margin: 0; padding: 0; list-style: none;}
+
+#menu li {display: inline;}
+
+#menu a {display: block; float: left; height: 31px; padding-top: 10px; width: 120px;	text-align: center; text-decoration: none; color: #FFFFFF;}
+
+#menu a:hover, #menu .active a {background: url(../Obrazki/menu_r.gif); color: #FFFFFF;}
+
+/* Content */
+
+#content {width: 700px; margin: 0 auto; padding-top: 10px; background: #ffffff;}
+
+.post {width: 650px; float: left;}
+
+.post .title {margin: 0; font-weight: normal;}
+
+.post h1.title {padding: 15px 0  0 15px; height: 40px; font-size: 2.1em;}
+
+.post .entry {padding: 0 10px 30px 15px; font-size: 1.2em;}
+
+.post .entry li {color: #FF0000;}
+
+.post .entry table { border-collapse:collapse; width:auto; text-align:left; }
+
+.post .entry table, td, th { border:1px solid black; vertical-align:top; }
+
+.post .entry td { height:50px; }
+
+.post .meta {margin: 0; padding: 5px 0px 0px 15px; text-transform: uppercase; font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #B13413;}
+
+.post .meta a {color: #B13413;}
+
+.post .links {margin: 0;}
+
+.post .tags {margin: 0; text-transform: uppercase; font-size: .8em; font-weight: bold;}
+
+.post .links a, .post .tags a {border: none;}
+
+
+/* Footer */
+
+#footer {width: 700px; margin: 0 auto; padding: 10px 0; background: url(../Obrazki/img6.gif) repeat-x; font-size: smaller; text-align: center;}
+
+#footer * {color: #a35a28;}

@@ -1,0 +1,1 @@
+Witaj, {$v_nick}!
